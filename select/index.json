@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "熱血乙女A",
+  "base_artist": "日野茜 (CV: 赤﨑千夏)",
+  "createdAt": "2026-02-24T23:37:25.811257Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "熱血乙女A [ORT]",
+      "artist": "日野茜(CV:赤﨑千夏)",
+      "has_synced": false,
+      "path": "select/01_熱血乙女A_[ORT]_日野茜(CV_赤﨑千夏).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "熱血乙女A",
+      "artist": "日野茜 (CV赤﨑千夏)",
+      "has_synced": true,
+      "path": "select/02_熱血乙女A_日野茜_(CV赤﨑千夏).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "熱血乙女A (オリジナル・カラオケ)",
+      "artist": "日野茜 (CV赤﨑千夏)",
+      "has_synced": false,
+      "path": "select/03_熱血乙女A_(オリジナル・カラオケ)_日野茜_(CV赤﨑千夏).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "熱血乙女A",
+      "artist": "日野茜",
+      "has_synced": false,
+      "path": "select/04_熱血乙女A_日野茜.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "熱血乙女A (オリジナル・カラオケ)",
+      "artist": "日野茜",
+      "has_synced": false,
+      "path": "select/05_熱血乙女A_(オリジナル・カラオケ)_日野茜.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "熱血乙女A",
+      "artist": "日野茜 (赤﨑千夏)",
+      "has_synced": false,
+      "path": "select/pl_01_熱血乙女A_日野茜_(赤﨑千夏).txt"
+    }
+  ]
+}
